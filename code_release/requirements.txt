@@ -1,0 +1,8 @@
+catboost==1.2.10
+cmdstanpy==1.3.0
+matplotlib==3.10.9
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+statsmodels==0.15.0
